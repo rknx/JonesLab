@@ -2,19 +2,19 @@ var data = {
     //////////   Slider   //////////////
     'slider': [
             {
-                'image': '/img/slider/dna.jpg'
+                'image': '/JonesLab/img/slider/dna.jpg'
                 , 'caption': 'PhD student'
                 , 'link': 'http://example.com'
     }, {
-                'image': '/img/slider/tomato.gif'
+                'image': '/JonesLab/img/slider/tomato.gif'
                 , 'caption': ''
                 , 'link': ''
     }, {
-                'image': '/img/slider/team.jpg'
+                'image': '/JonesLab/img/slider/team.jpg'
                 , 'caption': ''
                 , 'link': ''
     }, {
-                'image': '/img/slider/petri.jpg'
+                'image': '/JonesLab/img/slider/petri.jpg'
                 , 'caption': ''
                 , 'link': ''
     }
